@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistaco-pedro&exclude_repo=Machine-Learning,ML_completed_script)](https://github.com/batistaco-pedro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistaco-pedro&exclude_repo=Machine-Learning,ML_completed_script&layout=compact)](https://github.com/batistaco-pedro/github-readme-stats)
 
 <!--
 **BatistaCo-Pedro/BatistaCo-Pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

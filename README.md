@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistaco-pedro&hide=stars)](https://github.com/batistaco-pedro/github-readme-stats)
+
 <!--
 **BatistaCo-Pedro/BatistaCo-Pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
